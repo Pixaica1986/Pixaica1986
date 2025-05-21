@@ -53,8 +53,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Pixaica1986/Pixaica1986/output/snake.svg" alt="Snake animation" />
 
 ###
